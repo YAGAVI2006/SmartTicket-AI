@@ -1,0 +1,11 @@
+Ticket ID,Title,Description
+T-1001,Website down,The main website is completely unresponsive. We are losing sales.
+T-1002,Password reset,I forgot my password and the reset link is not arriving.
+T-1003,Billing error,I was charged twice for my subscription this month.
+T-1004,Feature request,It would be great if we could export reports to PDF.
+T-1005,Typo on homepage,There is a spelling mistake in the main banner.
+T-1006,App crashing on iOS,Every time I try to upload a photo, the app crashes.
+T-1007,Account locked,My account got locked out for no reason. Please help!
+T-1008,How to change email,Where can I update my email address in the settings?
+T-1009,Integrations,Do you integrate with Slack?
+T-1010,Data loss,All my projects disappeared from my dashboard! Needs immediate attention.
